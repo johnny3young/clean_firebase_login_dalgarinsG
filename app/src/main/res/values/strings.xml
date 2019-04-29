@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clean Login</string>
+
+    <string name="facebook_app_id">1836837696352581</string>
+    <string name="fb_login_protocol_scheme">fb1836837696352581</string>
+    <string name="anonymous">Login Anonymous</string>
+
+</resources>
